@@ -1,0 +1,24 @@
+body{
+
+    
+}
+
+form{
+    width: 20%;
+    background-image: url("./bgcimage.jpg");
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+input{
+    border-radius: .5rem;
+}
+input:hover,
+button:hover{
+    transform: scale(1.1);
+    
+}
+
